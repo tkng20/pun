@@ -1,10 +1,3 @@
-/* =====================================
-Template Name: Eshop
-Author Name: Naimur Rahman
-Author URI: http://www.wpthemesgrid.com/
-Description: Eshop - eCommerce HTML5 Template.
-Version:1.0
-========================================*/
 
 /*--------------------------------------------------------------
 # Normalize
@@ -316,7 +309,7 @@ big {
 	display: inline-block;
 }
 .breadcrumbs ul li a:hover{
-	color:#F7941D;
+	color:#199270;
 }
 /*=============================
 	Start Demos CSS 
