@@ -173,7 +173,7 @@ textarea {
 	color: #424646;
     font-family: 'Poppins', sans-serif;
 	font-weight:400;
-	font-size: 14px;
+	font-size: 16px;
 	line-height: 24px;
 }
 h1, h2, h3, h4, h5, h6 {
@@ -181,9 +181,9 @@ h1, h2, h3, h4, h5, h6 {
 	margin: 0;
 }
 p {
-	color:#757575;
+	color:#131212;
 	margin: 0;
-	line-height:24px;
+	line-height:30px;
 }
 a,button,input{
 	font-weight:400;
@@ -590,6 +590,8 @@ img {
 	height: auto;
 	/* Make sure images are scaled correctly. */
 	max-width: 100%;
+	margin-bottom: 20px;
+	margin-top: 20px;
 	/* Adhere to container width. */
 }
 

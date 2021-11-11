@@ -654,7 +654,8 @@
 }
 
 .fa-calendar:before {
-    content: "\f073"
+    content: "\f073";
+    color: #3c7363;
 }
 
 .fa-random:before {
@@ -662,7 +663,8 @@
 }
 
 .fa-comment:before {
-    content: "\f075"
+    content: "\f075";
+    color:#3c7363
 }
 
 .fa-magnet:before {
@@ -728,7 +730,8 @@
 }
 
 .fa-comments:before {
-    content: "\f086"
+    content: "\f086";
+    color: #3c7363;
 }
 
 .fa-thumbs-o-up:before {
